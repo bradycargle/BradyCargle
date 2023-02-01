@@ -7,6 +7,10 @@
   <span>— {{ helpers.getReadingTime(content) }} minute read</span>
 </p>
 {% endset %}
+{# Post list content #}
+{% set postListHeading = postsHeading %}
+{% set postListItems = collections.postFeed %}
+
 
 {% block content %}
   <main id="main-content" tabindex="-1">
@@ -19,8 +23,8 @@
       <script async data-uid="379e7f0f9c" src="https://artisanal-artisan-1991.ck.page/379e7f0f9c/index.js"></script>
 
       </div>
-      {% set postListHeading = postsHeading %}
-{% set postListItems = collections.postFeed %}
+          {% include "partials/components/post-list.njk" %}
+
     </article>
   </main>
 {% endblock %}
