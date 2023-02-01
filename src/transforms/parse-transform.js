@@ -1,10 +1,10 @@
 const jsdom = require('@tbranyen/jsdom');
-const {JSDOM} = jsdom;
+const { JSDOM } = jsdom;
 const minify = require('../utils/minify.js');
 const slugify = require('slugify');
 const getSize = require('image-size');
 
-module.exports = function(value, outputPath) {
+module.exports = function (value, outputPath) {
   if (outputPath.endsWith('.html')) {
     const DOM = new JSDOM(value, {
       resources: 'usable'
@@ -22,10 +22,10 @@ module.exports = function(value, outputPath) {
         image.setAttribute('loading', 'lazy');
 
         const file = image.getAttribute('src');
-        
+
         if (file.indexOf('http') < 0) {
           const dimensions = getSize('src' + file);
-          
+
           image.setAttribute('width', dimensions.width);
           image.setAttribute('height', dimensions.height);;
         }
@@ -55,7 +55,6 @@ module.exports = function(value, outputPath) {
         const anchor = document.createElement('a');
 
         anchor.setAttribute('href', `#heading-${headingSlug}`);
-        anchor.classList.add('heading-permalink');
         anchor.innerHTML = minify(`
         <span class="visually-hidden"> permalink</span>
         <svg fill="currentColor" aria-hidden="true" focusable="false" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
