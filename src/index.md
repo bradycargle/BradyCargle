@@ -12,5 +12,5 @@ E﻿ntrepreneurship, philosophy, and life
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 
 ```
-
+<script async data-uid="379e7f0f9c" src="https://artisanal-artisan-1991.ck.page/379e7f0f9c/index.js"></script>
 ```
