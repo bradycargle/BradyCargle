@@ -1,6 +1,6 @@
 ---
 layout: home
-title: E﻿ntrepreneurship, philosophy, life
+title: E﻿ntrepreneurship, philosophy, & life
 metaTitle: Brady Cargle Home
 metaDesc: Brady Cargle's blog
 postsHeading: Latest posts
