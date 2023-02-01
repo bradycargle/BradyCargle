@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Brady Cargle's Blog
+title: Brady Cargle
 metaTitle: Brady Cargle Home
 metaDesc: Brady Cargle's blog
 postsHeading: Latest posts
