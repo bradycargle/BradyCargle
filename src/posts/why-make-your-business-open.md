@@ -45,4 +45,4 @@ And last, I write these reports because I want you to trust me. I want you to li
 
 Maybe this blog post is what gets a customer off the fence about buying. Maybe it causes you to tell a friend about me.
 
-Either way, I enjoy writing these and whether they’re read or not, it makes me feel good.
+Either way, I enjoy writing these and whether they’re read or not, it makes me feel good. That is enough for one lifetime.
