@@ -5,15 +5,17 @@ metaTitle: Why Make Your Business Open?
 metaDesc: What is an open startup, an open business? This post will tell you why
   LaunchEffect is open.
 ---
+Yesterday, LaunchEffect became [Georgia's first open startup](https://bradycargle.com/posts/georgias-first-open-startup/). I will share everything about the business: from finances to decisions to conversations, you can get everything except my passwords from me.
+
 "The man in black fled across the desert, and the gunslinger followed."
 
-\-Stephen King, The Dark Tower
+*\-Stephen King, The Dark Tower*
 
 This is my favorite opening line to a book. The man in black (probably a bad, bad man) is running from… a gunslinger? Like, Clint Eastwood?
 
 One line and you see the bad guy running from the good guy. There’s a sense of danger, action in the air. Something is about to go down, and I want to know what it is.
 
-Running a business is like this first line. The good guy is you (don’t we always believe that we are the good guys?) ready to shoot the bad guys of corporate bosses and overdrafted bank accounts. We business owners are chasing our dream, making things happen where things weren’t happening, trying to earn a buck, hoping to not go under.
+Running a business is like this. The good guy is you (don’t we always believe that we are the good guys?) ready to shoot the bad guys of corporate bosses and overdrafted bank accounts. We business owners are chasing our dream, making things happen where things weren’t happening, trying to earn a buck, hoping to not go under.
 
 It’s a race against the clock (our expenses) and the competition. A race for our life and liberty and happiness and a fat checking account to boot, dang it. We don’t want to have our cake and eat it too, but make our cake and sell it so we can buy more flour and sugar and eggs and still take some home to the bank.
 
@@ -39,7 +41,7 @@ I will make mistakes. I will fail.
 
 But maybe someone else doesn’t have to.
 
-And last, I write these reports because I want you to trust me. Full disclosure: I want you to like me, to see me as an upstanding guy.  It helps my business for you to believe I’m worth trusting with your brand.
+And last, I write these reports because I want you to trust me. I want you to like me, to see me as an upstanding guy.  It helps my business for you to believe I’m worth trusting with your brand.
 
 Maybe this blog post is what gets a customer off the fence about buying. Maybe it causes you to tell a friend about me.
 
