@@ -4,6 +4,9 @@ title: Why Make Your Business Open?
 metaTitle: Why Make Your Business Open?
 metaDesc: What is an open startup, an open business? This post will tell you why
   LaunchEffect is open.
+tags:
+  - open-startup
+  - entrepreneurship
 ---
 Yesterday, LaunchEffect became [Georgia's first open startup](https://bradycargle.com/posts/georgias-first-open-startup/). I will share everything about the business: from finances to decisions to conversations, you can get everything except my passwords from me.
 
