@@ -24,3 +24,5 @@ C﻿ompanies and governments today are opaque like mud. I want to be transparent
 U﻿se my business as a training grounds, a learning place. I will make the mistakes and successes so you can learn from me.
 
 T﻿ogether we can make the world a more transparent place.
+
+C﻿lick here to read [why I make my business open](https://bradycargle.com/posts/why-make-your-business-open/).
