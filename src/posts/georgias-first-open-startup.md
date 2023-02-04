@@ -4,6 +4,9 @@ title: Georgia's First Open Startup
 metaTitle: Georgia's First Open Startup
 metaDesc: LaunchEffect is Georgia's first open startup. This post will tell you
   what we're doing and why it's important.
+tags:
+  - open-startup
+  - entrepreneurship
 ---
 A﻿n open startup is a business that makes everything transparent. From the profit-and-loss statements to conversations with employees, open startups share everything except passwords.
 
