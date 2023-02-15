@@ -1,6 +1,9 @@
 ---
 layout: layouts/post.njk
 title: The Anatomy of $1M/Month
+metaTitle: The Anatomy of a $1,000,000/Month Business
+metaDesc: In this post I break down what a business would look like if it were
+  making one million dollars per month
 tags:
   - entrepreneurship
 ---
