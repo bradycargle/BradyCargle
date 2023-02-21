@@ -257,7 +257,7 @@ I’m finding all of my current team through Upwork. Generalized across all my h
 
 My philosophy is that talent can be taught to the person who has the right mindset. And right now this hiring process works; my team only has to be better than my competition: my competition that only hires locals or has no team at all. I can hire great people at a fraction of the cost of my competitors. There is a small drop in quality of their English levels, but this is an easy fix. Technical skills are at least what I can find in the USA.
 
-But the team I have is not the team who will make my dreams come true. This team works right now, my team acquisition works right now, but what about when my competition is better? What about when I’m no longer a small town web dev, but someone who is competing on an international level? What about when my best players are getting poached, or when to find the best players, I have to do the poaching?
+But the team I have is not the team who will make my dreams come true. I will need more. More developers, more customer support, more everything. This doesn’t mean that I will fire my current team, but that I will need new people too. My team right now works right now, my team acquisition works right now, but what about when my competition is better? What about when I’m no longer a small town web dev, but someone who is competing on an international level? What about when my best players are getting poached, or when to find the best players, I have to do the poaching?
 
 “All of the most productive people already have a job.” - Alex Hormozi
 
